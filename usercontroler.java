@@ -8,5 +8,7 @@ class UserController {
     public void addUser (String name) {
         User user = new User(name);
         users.add(user);
+        System.out.println("User  added: " + name);
+    
     }
 }
