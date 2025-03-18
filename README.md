@@ -44,9 +44,11 @@ getName(): Returns the name of the user</li>
 <ul>
   <li>private static List<User> users = new ArrayList<>();: This is a static list that holds User  objects. It is shared across all methods in the Main class.</li
   <br>   
-    <li>The entry point of the program where execution begins.
+    <li>
+      The entry point of the program where execution begins.
 Calls addUser ("Alice") and addUser ("Bob") to add two users to the list.
-Calls listUsers() to display the names of all users added</li>
+Calls listUsers() to display the names of all users added
+    </li>
     <br>
     <li>addUser (String name):
 Creates a new User  object with the given name.
