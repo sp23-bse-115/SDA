@@ -4,7 +4,7 @@
 <ul>
 <li>This class represents a user with a single attribute <li>
   <br>
-<li>It has a constructor to create a user with a specified name and a method getName() to retrieve the user's name.</li>
+<li>It has a constructor to create a user with a specified name and a method getName() to retrieve the user's name</li>
 </ul>
 
 <h2>User Controller Class</h2>
